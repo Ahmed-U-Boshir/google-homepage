@@ -16,3 +16,22 @@ nav {
     display: flex;
     flex-direction: row;
 }
+
+nav .left-side-nav {
+    justify-content: 10px;
+}
+
+nav .right-side-nav {
+    margin-left: 75%;
+    justify-content: right;
+}
+
+.profile-pic {
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+}
+
+.main-content {
+    text-align: center;
+}
